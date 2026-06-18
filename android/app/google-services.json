@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976791735994",
+    "project_id": "workforce-managment-d43b9",
+    "storage_bucket": "workforce-managment-d43b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976791735994:android:b67cf15312553c91d93c83",
+        "android_client_info": {
+          "package_name": "com.example.tryzx_workfoce_mangment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuuGIy_ucv3KbSLYN3AFGXp_3bzG8cgOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
